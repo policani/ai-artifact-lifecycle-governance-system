@@ -1,0 +1,25 @@
+flowchart TD
+    A[Informal Artifact Appears] --> B[Artifact Intake]
+    B --> C[Prototype Commons Registry]
+    C --> D[Production Class Ladder]
+    D --> E{Class}
+    E --> F[Personal Tool]
+    E --> G[Team Beta]
+    E --> H[Supported Internal Product]
+    E --> I[Customer-Facing Promise]
+    F --> J[Route Decision]
+    G --> J
+    H --> J
+    I --> J
+    J --> K[Keep Personal]
+    J --> L[Hold Beta]
+    J --> M[Promote]
+    J --> N[Formalize]
+    J --> O[Demote]
+    J --> P[Retire]
+    N --> Q[Business Case / Charter / Portfolio Scoring]
+    K --> R[Governance Log if follow-through needed]
+    L --> R
+    M --> R
+    O --> R
+    P --> R

@@ -1,0 +1,6 @@
+id,artifact,type,owner,backup_owner,users,current_use,data_touched,systems_touched,customer_exposure,value_signal,known_failure_mode,requested_outcome
+A1,Renewal Risk GPT,GPT,Customer Success Ops,,12 account managers,weekly account prep,customer account notes,CRM read-only,indirect,directional,poor recommendation could misprioritize account outreach,scale if safe
+A2,Invoice Exception Script,script,Finance analyst,,one analyst,daily reconciliation,confidential finance data,ERP write-enabled,none,strong,reconciliation errors could affect billing accuracy,support
+A3,Executive KPI Dashboard,dashboard,Strategy Ops,PMO analyst,leadership team,monthly business review,internal metrics,data warehouse read-only,none,strong,wrong KPI snapshot could mislead portfolio decisions,promote
+A4,Support Reply Agent,agent,Support team lead,,support pilot group,customer response drafts,customer tickets,helpdesk read/write,direct,anecdotal,incorrect response could harm customer trust,beta
+A5,Meeting Notes Summarizer,workflow,Program manager,,one person,personal productivity,meeting notes,local files,none,weak,missed action item,keep personal
