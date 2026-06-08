@@ -9,6 +9,7 @@
 - Failure modes are understood.
 - Required controls are feasible.
 - The benefit justifies support obligations.
+- Support, maintenance, training, and exception-handling obligations are proportionate to the value signal.
 
 ## Hold as team beta when
 
@@ -44,3 +45,11 @@
 
 - New funding, staffing, architecture, procurement, policy, or delivery commitment is needed.
 - Route to business case, charter, portfolio scoring, or governance log as appropriate.
+
+## Support-burden rule
+
+Promotion should become harder as reliance and support obligation increase. A
+personal tool may need only bounded risk and useful local value. A team beta
+needs owner readiness and a short proof cycle. A promoted or formalized artifact
+needs clearer value evidence, support owner, maintenance path, controls,
+training expectations, failure handling, and downstream route.

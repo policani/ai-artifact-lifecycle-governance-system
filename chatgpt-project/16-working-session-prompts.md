@@ -14,7 +14,7 @@ Use this project to identify which artifacts are creating unsupported business r
 
 ## Promotion review
 
-Use this project to evaluate whether this artifact is ready to move from team beta to supported internal product. Identify minimum controls, evidence gaps, ownership requirements, and next-module handoff.
+Use this project to evaluate whether this artifact is ready to move from team beta to supported internal product. Compare value signal to support burden: user pull, measured or directional value, reliance, data/systems touched, owner readiness, maintenance effort, training/support needs, failure cost, control requirements, and formalization route. Identify minimum controls, evidence gaps, ownership requirements, and next-module handoff.
 
 ## Demotion review
 
