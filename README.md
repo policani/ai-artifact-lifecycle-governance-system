@@ -274,6 +274,10 @@ A successful use of this package should produce clear judgment, not paperwork. T
 - whether to keep it local, hold it as a beta, promote it, formalize it, demote it, or retire it;
 - which next module should receive the handoff.
 
+## License
+
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
+
 ## Search keywords
 
 AI artifact governance, prototype commons, post-prototype governance, citizen development governance, production class ladder, AI governance, PMO, EPMO, portfolio governance, internal product ownership, AI operating model, AI transformation, business reliance, promotion demotion governance, AI tool registry, ChatGPT Project, Codex workflow package, executive AI portfolio review.
