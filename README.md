@@ -27,6 +27,27 @@ Without a lightweight artifact governance layer:
 
 This package creates a practical middle layer: **default allow for experimentation, intentional promotion for business reliance, and explicit demotion or retirement for artifacts that should not become supported products.**
 
+## July 2026 positioning update
+
+Customer-language research sharpened the public framing for this module. The
+market problem is not only "artifact lifecycle governance"; it is the need for
+an **AI governance evidence and lifecycle registry** when shadow AI, local
+agents, lightweight automations, dashboards, scripts, and GPTs start becoming
+business dependencies before anyone can answer:
+
+- What exists?
+- Who owns it?
+- Is anyone relying on it?
+- What data, systems, permissions, or decisions does it touch?
+- What evidence would make it safe to promote, hold, demote, or retire?
+
+Use external-facing language such as **AI registry**, **use-case and artifact
+inventory**, **audit-ready evidence**, **ownership**, **risk tiering**, and
+**promotion path** before using internal shorthand like "artifact lifecycle."
+The capability gap to keep watching is whether examples make ownership, reliance
+class, control evidence, and human decision routing visible enough for an AI
+governance, PMO, security, compliance, or operations reviewer.
+
 ## Who this is for
 
 - PMO, EPMO, and portfolio governance leaders
